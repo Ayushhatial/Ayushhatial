@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayushhatial
-- 👀 I’m interested in ...software development and cyber security 
-- 🌱 I’m currently learning ...java and python 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development and game development
+- 🌱 I’m currently learning java and python 
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ...ayushhatial@gmail.com 
 
 <!---
